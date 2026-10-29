@@ -1,0 +1,14 @@
+# ==========================================
+# Netlify Configuration for LearnMate AI
+# ==========================================
+
+[build]
+  base = "client"
+  publish = "dist"
+  command = "npm run build"
+
+# Handle Single Page Application (SPA) client-side routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
