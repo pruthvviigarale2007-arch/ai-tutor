@@ -1,0 +1,30 @@
+{
+  "name": "learnmate-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LearnMate AI - Your Personal AI Learning Tutor",
+  "scripts": {
+    "dev": "concurrently -k -n \"server,client\" -c \"blue,magenta\" \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "install:all": "npm install && npm install --prefix client && npm install --prefix server",
+    "build:client": "npm run build --prefix client",
+    "build:server": "npm run build --prefix server",
+    "build": "npm run build:server && npm run build:client",
+    "test": "npm run test --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.5"
+  },
+  "keywords": [
+    "ai-tutor",
+    "adaptive-learning",
+    "education",
+    "openai",
+    "react",
+    "typescript",
+    "supabase"
+  ],
+  "author": "LearnMate AI Team",
+  "license": "MIT"
+}

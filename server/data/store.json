@@ -1,0 +1,2049 @@
+{
+  "profiles": [
+    {
+      "id": "user_student_alpha",
+      "display_name": "Alpha Tester",
+      "education_level": "undergraduate",
+      "field_of_study": "Computer Science",
+      "subjects_of_interest": [
+        "Algorithms",
+        "Machine Learning"
+      ],
+      "current_knowledge_level": "intermediate",
+      "learning_goals": [
+        "Pass Advanced Algorithms exam"
+      ],
+      "preferred_language": "en",
+      "daily_study_minutes": 40,
+      "difficult_topics": [],
+      "learning_preferences": {
+        "explanation_style": "balanced",
+        "preferred_mode": "conceptual",
+        "pace": "moderate"
+      },
+      "is_onboarded": true,
+      "created_at": "2026-10-29T17:11:10.568Z",
+      "updated_at": "2026-10-29T17:11:10.568Z"
+    },
+    {
+      "id": "demo-student-alex",
+      "display_name": "Alex Johnson",
+      "education_level": "undergraduate",
+      "field_of_study": "Computer Science & Cognitive Psychology",
+      "subjects_of_interest": [
+        "Artificial Intelligence",
+        "Data Structures",
+        "Neuroscience"
+      ],
+      "current_knowledge_level": "intermediate",
+      "learning_goals": [
+        "Master Machine Learning fundamentals",
+        "Ace algorithmic problem solving"
+      ],
+      "preferred_language": "en",
+      "daily_study_minutes": 45,
+      "difficult_topics": [
+        "Dynamic Programming",
+        "Backpropagation derivation"
+      ],
+      "learning_preferences": {
+        "explanation_style": "balanced",
+        "preferred_mode": "conceptual",
+        "pace": "moderate"
+      },
+      "is_onboarded": true,
+      "created_at": "2026-10-29T17:11:09.158Z",
+      "updated_at": "2026-10-29T17:11:09.158Z"
+    }
+  ],
+  "learning_goals": [],
+  "conversations": [
+    {
+      "id": "c66f1a93-3f02-4f04-b2db-4e5c4ecd317f",
+      "user_id": "user_student_alpha",
+      "title": "What is a binary search tree and...",
+      "tutor_mode": "conceptual",
+      "created_at": "2026-10-29T17:11:10.695Z",
+      "updated_at": "2026-10-29T17:11:10.695Z"
+    },
+    {
+      "id": "22034add-02a9-4206-ab76-49bb30a38e96",
+      "user_id": "user_student_alpha",
+      "title": "Private Conversation A",
+      "tutor_mode": "conceptual",
+      "created_at": "2026-10-29T17:11:10.596Z",
+      "updated_at": "2026-10-29T17:11:10.596Z"
+    },
+    {
+      "id": "1fcf4faf-fb6d-4fc2-82bb-81d9ce8d5d26",
+      "user_id": "user_student_alpha",
+      "title": "What is a binary search tree and...",
+      "tutor_mode": "conceptual",
+      "created_at": "2026-10-29T17:06:08.802Z",
+      "updated_at": "2026-10-29T17:06:08.802Z"
+    },
+    {
+      "id": "d91e7b45-1126-4ca8-a0b1-71600b7f5d0a",
+      "user_id": "user_student_alpha",
+      "title": "Private Conversation A",
+      "tutor_mode": "conceptual",
+      "created_at": "2026-10-29T17:06:08.741Z",
+      "updated_at": "2026-10-29T17:06:08.741Z"
+    },
+    {
+      "id": "2df71f62-38b1-4fc0-bf52-c27d78e09c81",
+      "user_id": "user_student_alpha",
+      "title": "What is a binary search tree and...",
+      "tutor_mode": "conceptual",
+      "created_at": "2026-10-29T16:34:57.862Z",
+      "updated_at": "2026-10-29T16:34:57.862Z"
+    },
+    {
+      "id": "f7b92202-042a-421d-a0c9-40796cd090ce",
+      "user_id": "user_student_alpha",
+      "title": "Private Conversation A",
+      "tutor_mode": "conceptual",
+      "created_at": "2026-10-29T16:34:57.763Z",
+      "updated_at": "2026-10-29T16:34:57.763Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "d47d0a64-305a-494b-9f00-0c4782b41689",
+      "conversation_id": "2df71f62-38b1-4fc0-bf52-c27d78e09c81",
+      "role": "user",
+      "content": "What is a binary search tree and when should I use it?",
+      "metadata": {},
+      "created_at": "2026-10-29T16:34:57.864Z"
+    },
+    {
+      "id": "efb8923a-305f-47b5-855e-1f3a2213caea",
+      "conversation_id": "2df71f62-38b1-4fc0-bf52-c27d78e09c81",
+      "role": "assistant",
+      "content": "### Understanding What is a binary search tree and when should I use it**1. Simple Explanation:**At its heart, **What is a binary search tree and when should I use it** is a framework for structuring complex logic into clear, predictable mechanisms. It allows systems to scale and adapt without breaking existing guarantees.**2. Step-by-Step Breakdown:**- **Origin & Purpose:** Solves the challenge of managing state changes predictably.- **The Mechanism:** Operates through well-defined contracts where each stage produces verifiable results.- **The Payoff:** Greater resilience, readability, and maintainability.**3. Concrete Analogy:**Think of a train track switchboard: rather than having each train driver guess where to go, a unified routing mechanism directs every carriage safely to its designated platform.**4. Common Misconception:**Many students assume this only works in simple scenarios, but it is actually most critical when system complexity is at its highest.**5. Quick Practice Question:**How does this approach prevent unexpected side effects when requirements change?*Let me know if you would like to explore the mathematics, practical code, or a deeper theoretical proof!*",
+      "metadata": {
+        "tutor_mode": "conceptual"
+      },
+      "created_at": "2026-10-29T16:35:00.369Z"
+    },
+    {
+      "id": "2222297c-4213-4d71-b5ac-889577427b77",
+      "conversation_id": "1fcf4faf-fb6d-4fc2-82bb-81d9ce8d5d26",
+      "role": "user",
+      "content": "What is a binary search tree and when should I use it?",
+      "metadata": {},
+      "created_at": "2026-10-29T17:06:08.803Z"
+    },
+    {
+      "id": "3bda2c50-78d0-4f79-ae50-f5b70cbe346f",
+      "conversation_id": "1fcf4faf-fb6d-4fc2-82bb-81d9ce8d5d26",
+      "role": "assistant",
+      "content": "### Understanding What is a binary search tree and when should I use it**1. Simple Explanation:**At its heart, **What is a binary search tree and when should I use it** is a framework for structuring complex logic into clear, predictable mechanisms. It allows systems to scale and adapt without breaking existing guarantees.**2. Step-by-Step Breakdown:**- **Origin & Purpose:** Solves the challenge of managing state changes predictably.- **The Mechanism:** Operates through well-defined contracts where each stage produces verifiable results.- **The Payoff:** Greater resilience, readability, and maintainability.**3. Concrete Analogy:**Think of a train track switchboard: rather than having each train driver guess where to go, a unified routing mechanism directs every carriage safely to its designated platform.**4. Common Misconception:**Many students assume this only works in simple scenarios, but it is actually most critical when system complexity is at its highest.**5. Quick Practice Question:**How does this approach prevent unexpected side effects when requirements change?*Let me know if you would like to explore the mathematics, practical code, or a deeper theoretical proof!*",
+      "metadata": {
+        "tutor_mode": "conceptual"
+      },
+      "created_at": "2026-10-29T17:06:11.204Z"
+    },
+    {
+      "id": "928a1996-17a1-4adb-aed0-8c81618d15e1",
+      "conversation_id": "c66f1a93-3f02-4f04-b2db-4e5c4ecd317f",
+      "role": "user",
+      "content": "What is a binary search tree and when should I use it?",
+      "metadata": {},
+      "created_at": "2026-10-29T17:11:10.699Z"
+    },
+    {
+      "id": "8c115f5b-b9be-4a07-bddb-753248fed0fc",
+      "conversation_id": "c66f1a93-3f02-4f04-b2db-4e5c4ecd317f",
+      "role": "assistant",
+      "content": "### Understanding What is a binary search tree and when should I use it**1. Simple Explanation:**At its heart, **What is a binary search tree and when should I use it** is a framework for structuring complex logic into clear, predictable mechanisms. It allows systems to scale and adapt without breaking existing guarantees.**2. Step-by-Step Breakdown:**- **Origin & Purpose:** Solves the challenge of managing state changes predictably.- **The Mechanism:** Operates through well-defined contracts where each stage produces verifiable results.- **The Payoff:** Greater resilience, readability, and maintainability.**3. Concrete Analogy:**Think of a train track switchboard: rather than having each train driver guess where to go, a unified routing mechanism directs every carriage safely to its designated platform.**4. Common Misconception:**Many students assume this only works in simple scenarios, but it is actually most critical when system complexity is at its highest.**5. Quick Practice Question:**How does this approach prevent unexpected side effects when requirements change?*Let me know if you would like to explore the mathematics, practical code, or a deeper theoretical proof!*",
+      "metadata": {
+        "tutor_mode": "conceptual"
+      },
+      "created_at": "2026-10-29T17:11:12.562Z"
+    }
+  ],
+  "learning_paths": [
+    {
+      "id": "ffcf49b5-5c79-4366-aab3-dbcfafe75333",
+      "user_id": "user_student_alpha",
+      "title": "Mastery Path: Python Data Analysis",
+      "description": "A personalized, high-retention learning roadmap structured to take you from beginner to your goal: \"Learn Pandas and NumPy for tabular data\".",
+      "subject": "Python Data Analysis",
+      "difficulty": "beginner",
+      "status": "in_progress",
+      "prerequisites": [
+        "Basic foundational concepts in Python Data Analysis",
+        "Problem-solving fundamentals"
+      ],
+      "created_at": "2026-10-29T17:11:12.608Z",
+      "updated_at": "2026-10-29T17:11:12.608Z",
+      "modules": [
+        {
+          "id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+          "learning_path_id": "ffcf49b5-5c79-4366-aab3-dbcfafe75333",
+          "title": "Module 1: Foundations of Python Data Analysis",
+          "description": "Master core definitions, principles, and the mental model of Python Data Analysis.",
+          "position": 1,
+          "lessons": [
+            {
+              "id": "8a02a445-fa16-40e9-beea-ab6366b5970e",
+              "module_id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+              "title": "Introduction & Key Principles of Python Data Analysis",
+              "content": {
+                "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+                "objectives": [
+                  "Explain the core definition and history of Python Data Analysis",
+                  "Identify the 3 foundational pillars governing the domain",
+                  "Recognize everyday applications and practical value"
+                ],
+                "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+                "examples": [
+                  {
+                    "title": "Foundational Scenario",
+                    "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+                    "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Baseline State",
+                    "definition": "The initial unmodified condition of the system."
+                  },
+                  {
+                    "term": "Governing Rule",
+                    "definition": "The fundamental constraint that dictates behavior."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "Memorizing terminology is sufficient for mastery.",
+                    "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "What is the primary objective of studying Python Data Analysis?",
+                    "hint": "Think about predictability and problem-solving capability.",
+                    "answer": "To develop systematic intuition and apply foundational principles effectively."
+                  }
+                ],
+                "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+                "furtherStudySuggestions": [
+                  "Review related foundational literature",
+                  "Attempt the Module 1 diagnostic quiz"
+                ]
+              },
+              "estimated_minutes": 25,
+              "position": 1,
+              "created_at": "2026-10-29T17:11:12.608Z"
+            },
+            {
+              "id": "e4b70b3a-fb6c-4023-b760-7034e64db030",
+              "module_id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+              "title": "Core Architecture & Essential Mechanics",
+              "content": {
+                "overview": "Dissecting the internal mechanics and operational workflow.",
+                "objectives": [
+                  "Trace the step-by-step lifecycle of operations",
+                  "Distinguish between internal states and external outputs"
+                ],
+                "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+                "examples": [
+                  {
+                    "title": "State Transition Example",
+                    "explanation": "How inputs transition through intermediate phases.",
+                    "codeOrSteps": "input -> validation -> processing -> output"
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Feedback Loop",
+                    "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "Feedback loops always cause delays.",
+                    "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "Why are feedback loops critical in system architecture?",
+                    "hint": "Consider what happens when external conditions change unexpectedly.",
+                    "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+                  }
+                ],
+                "summary": "You now possess a working conceptual model of the internal mechanics.",
+                "furtherStudySuggestions": [
+                  "Module 2: Advanced Techniques & Applications"
+                ]
+              },
+              "estimated_minutes": 30,
+              "position": 2,
+              "created_at": "2026-10-29T17:11:12.608Z"
+            }
+          ],
+          "created_at": "2026-10-29T17:11:12.608Z"
+        },
+        {
+          "id": "d1ac2230-0d94-4021-9402-31a5b9c3d0cd",
+          "learning_path_id": "ffcf49b5-5c79-4366-aab3-dbcfafe75333",
+          "title": "Module 2: Applied Techniques & Problem Solving",
+          "description": "Tackle complex scenarios, edge cases, and practical implementations.",
+          "position": 2,
+          "lessons": [
+            {
+              "id": "2b8a73c7-44c5-4917-b41f-9eb59d34c207",
+              "module_id": "d1ac2230-0d94-4021-9402-31a5b9c3d0cd",
+              "title": "Real-World Case Studies in Python Data Analysis",
+              "content": {
+                "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+                "objectives": [
+                  "Analyze a comprehensive real-world case study",
+                  "Evaluate trade-offs between competing strategies"
+                ],
+                "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+                "examples": [
+                  {
+                    "title": "Case Study: Scaled Optimization",
+                    "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+                    "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Trade-off Analysis",
+                    "definition": "The deliberate weighing of benefits versus compromises."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "There is always one single perfect solution.",
+                    "clarification": "Engineering and science involve context-dependent trade-offs."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "What is the most critical factor when evaluating system trade-offs?",
+                    "hint": "Align with the primary objective and constraints.",
+                    "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+                  }
+                ],
+                "summary": "You have applied fundamental theory to real-world complexity.",
+                "furtherStudySuggestions": [
+                  "Complete the capstone assessment for this learning path"
+                ]
+              },
+              "estimated_minutes": 35,
+              "position": 1,
+              "created_at": "2026-10-29T17:11:12.608Z"
+            }
+          ],
+          "created_at": "2026-10-29T17:11:12.608Z"
+        }
+      ]
+    },
+    {
+      "id": "ab527244-9468-4c19-b0da-b7be892e7c59",
+      "user_id": "user_student_alpha",
+      "title": "Mastery Path: Python Data Analysis",
+      "description": "A personalized, high-retention learning roadmap structured to take you from beginner to your goal: \"Learn Pandas and NumPy for tabular data\".",
+      "subject": "Python Data Analysis",
+      "difficulty": "beginner",
+      "status": "in_progress",
+      "prerequisites": [
+        "Basic foundational concepts in Python Data Analysis",
+        "Problem-solving fundamentals"
+      ],
+      "created_at": "2026-10-29T17:06:11.230Z",
+      "updated_at": "2026-10-29T17:06:11.230Z",
+      "modules": [
+        {
+          "id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+          "learning_path_id": "ab527244-9468-4c19-b0da-b7be892e7c59",
+          "title": "Module 1: Foundations of Python Data Analysis",
+          "description": "Master core definitions, principles, and the mental model of Python Data Analysis.",
+          "position": 1,
+          "lessons": [
+            {
+              "id": "6a56344f-aaf4-4aac-bf7a-c42632c0b392",
+              "module_id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+              "title": "Introduction & Key Principles of Python Data Analysis",
+              "content": {
+                "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+                "objectives": [
+                  "Explain the core definition and history of Python Data Analysis",
+                  "Identify the 3 foundational pillars governing the domain",
+                  "Recognize everyday applications and practical value"
+                ],
+                "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+                "examples": [
+                  {
+                    "title": "Foundational Scenario",
+                    "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+                    "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Baseline State",
+                    "definition": "The initial unmodified condition of the system."
+                  },
+                  {
+                    "term": "Governing Rule",
+                    "definition": "The fundamental constraint that dictates behavior."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "Memorizing terminology is sufficient for mastery.",
+                    "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "What is the primary objective of studying Python Data Analysis?",
+                    "hint": "Think about predictability and problem-solving capability.",
+                    "answer": "To develop systematic intuition and apply foundational principles effectively."
+                  }
+                ],
+                "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+                "furtherStudySuggestions": [
+                  "Review related foundational literature",
+                  "Attempt the Module 1 diagnostic quiz"
+                ]
+              },
+              "estimated_minutes": 25,
+              "position": 1,
+              "created_at": "2026-10-29T17:06:11.230Z"
+            },
+            {
+              "id": "bf13d156-4585-47b2-9c2c-017220f4386f",
+              "module_id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+              "title": "Core Architecture & Essential Mechanics",
+              "content": {
+                "overview": "Dissecting the internal mechanics and operational workflow.",
+                "objectives": [
+                  "Trace the step-by-step lifecycle of operations",
+                  "Distinguish between internal states and external outputs"
+                ],
+                "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+                "examples": [
+                  {
+                    "title": "State Transition Example",
+                    "explanation": "How inputs transition through intermediate phases.",
+                    "codeOrSteps": "input -> validation -> processing -> output"
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Feedback Loop",
+                    "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "Feedback loops always cause delays.",
+                    "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "Why are feedback loops critical in system architecture?",
+                    "hint": "Consider what happens when external conditions change unexpectedly.",
+                    "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+                  }
+                ],
+                "summary": "You now possess a working conceptual model of the internal mechanics.",
+                "furtherStudySuggestions": [
+                  "Module 2: Advanced Techniques & Applications"
+                ]
+              },
+              "estimated_minutes": 30,
+              "position": 2,
+              "created_at": "2026-10-29T17:06:11.230Z"
+            }
+          ],
+          "created_at": "2026-10-29T17:06:11.230Z"
+        },
+        {
+          "id": "3528b6be-52b3-4cc8-88e1-fa27f08902a3",
+          "learning_path_id": "ab527244-9468-4c19-b0da-b7be892e7c59",
+          "title": "Module 2: Applied Techniques & Problem Solving",
+          "description": "Tackle complex scenarios, edge cases, and practical implementations.",
+          "position": 2,
+          "lessons": [
+            {
+              "id": "43eb9259-11db-4bf6-8cf7-dbd5d1cb48d1",
+              "module_id": "3528b6be-52b3-4cc8-88e1-fa27f08902a3",
+              "title": "Real-World Case Studies in Python Data Analysis",
+              "content": {
+                "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+                "objectives": [
+                  "Analyze a comprehensive real-world case study",
+                  "Evaluate trade-offs between competing strategies"
+                ],
+                "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+                "examples": [
+                  {
+                    "title": "Case Study: Scaled Optimization",
+                    "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+                    "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Trade-off Analysis",
+                    "definition": "The deliberate weighing of benefits versus compromises."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "There is always one single perfect solution.",
+                    "clarification": "Engineering and science involve context-dependent trade-offs."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "What is the most critical factor when evaluating system trade-offs?",
+                    "hint": "Align with the primary objective and constraints.",
+                    "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+                  }
+                ],
+                "summary": "You have applied fundamental theory to real-world complexity.",
+                "furtherStudySuggestions": [
+                  "Complete the capstone assessment for this learning path"
+                ]
+              },
+              "estimated_minutes": 35,
+              "position": 1,
+              "created_at": "2026-10-29T17:06:11.230Z"
+            }
+          ],
+          "created_at": "2026-10-29T17:06:11.230Z"
+        }
+      ]
+    },
+    {
+      "id": "b3bc054d-263d-479b-9bee-b150c3014440",
+      "user_id": "user_student_alpha",
+      "title": "Mastery Path: Python Data Analysis",
+      "description": "A personalized, high-retention learning roadmap structured to take you from beginner to your goal: \"Learn Pandas and NumPy for tabular data\".",
+      "subject": "Python Data Analysis",
+      "difficulty": "beginner",
+      "status": "in_progress",
+      "prerequisites": [
+        "Basic foundational concepts in Python Data Analysis",
+        "Problem-solving fundamentals"
+      ],
+      "created_at": "2026-10-29T16:35:00.394Z",
+      "updated_at": "2026-10-29T16:35:00.394Z",
+      "modules": [
+        {
+          "id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+          "learning_path_id": "b3bc054d-263d-479b-9bee-b150c3014440",
+          "title": "Module 1: Foundations of Python Data Analysis",
+          "description": "Master core definitions, principles, and the mental model of Python Data Analysis.",
+          "position": 1,
+          "lessons": [
+            {
+              "id": "682d6f1a-3e72-4153-a2fe-d4be433d3781",
+              "module_id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+              "title": "Introduction & Key Principles of Python Data Analysis",
+              "content": {
+                "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+                "objectives": [
+                  "Explain the core definition and history of Python Data Analysis",
+                  "Identify the 3 foundational pillars governing the domain",
+                  "Recognize everyday applications and practical value"
+                ],
+                "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+                "examples": [
+                  {
+                    "title": "Foundational Scenario",
+                    "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+                    "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Baseline State",
+                    "definition": "The initial unmodified condition of the system."
+                  },
+                  {
+                    "term": "Governing Rule",
+                    "definition": "The fundamental constraint that dictates behavior."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "Memorizing terminology is sufficient for mastery.",
+                    "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "What is the primary objective of studying Python Data Analysis?",
+                    "hint": "Think about predictability and problem-solving capability.",
+                    "answer": "To develop systematic intuition and apply foundational principles effectively."
+                  }
+                ],
+                "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+                "furtherStudySuggestions": [
+                  "Review related foundational literature",
+                  "Attempt the Module 1 diagnostic quiz"
+                ]
+              },
+              "estimated_minutes": 25,
+              "position": 1,
+              "created_at": "2026-10-29T16:35:00.394Z"
+            },
+            {
+              "id": "c0c0395c-8118-4fbb-8b9e-daabca938aa2",
+              "module_id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+              "title": "Core Architecture & Essential Mechanics",
+              "content": {
+                "overview": "Dissecting the internal mechanics and operational workflow.",
+                "objectives": [
+                  "Trace the step-by-step lifecycle of operations",
+                  "Distinguish between internal states and external outputs"
+                ],
+                "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+                "examples": [
+                  {
+                    "title": "State Transition Example",
+                    "explanation": "How inputs transition through intermediate phases.",
+                    "codeOrSteps": "input -> validation -> processing -> output"
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Feedback Loop",
+                    "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "Feedback loops always cause delays.",
+                    "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "Why are feedback loops critical in system architecture?",
+                    "hint": "Consider what happens when external conditions change unexpectedly.",
+                    "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+                  }
+                ],
+                "summary": "You now possess a working conceptual model of the internal mechanics.",
+                "furtherStudySuggestions": [
+                  "Module 2: Advanced Techniques & Applications"
+                ]
+              },
+              "estimated_minutes": 30,
+              "position": 2,
+              "created_at": "2026-10-29T16:35:00.394Z"
+            }
+          ],
+          "created_at": "2026-10-29T16:35:00.394Z"
+        },
+        {
+          "id": "b2acd43f-7105-4fbc-b092-43baf87787a4",
+          "learning_path_id": "b3bc054d-263d-479b-9bee-b150c3014440",
+          "title": "Module 2: Applied Techniques & Problem Solving",
+          "description": "Tackle complex scenarios, edge cases, and practical implementations.",
+          "position": 2,
+          "lessons": [
+            {
+              "id": "a84f26dc-16da-4558-b8e5-76eb11cfb9aa",
+              "module_id": "b2acd43f-7105-4fbc-b092-43baf87787a4",
+              "title": "Real-World Case Studies in Python Data Analysis",
+              "content": {
+                "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+                "objectives": [
+                  "Analyze a comprehensive real-world case study",
+                  "Evaluate trade-offs between competing strategies"
+                ],
+                "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+                "examples": [
+                  {
+                    "title": "Case Study: Scaled Optimization",
+                    "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+                    "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+                  }
+                ],
+                "keyTerminology": [
+                  {
+                    "term": "Trade-off Analysis",
+                    "definition": "The deliberate weighing of benefits versus compromises."
+                  }
+                ],
+                "misconceptions": [
+                  {
+                    "misconception": "There is always one single perfect solution.",
+                    "clarification": "Engineering and science involve context-dependent trade-offs."
+                  }
+                ],
+                "practiceQuestions": [
+                  {
+                    "question": "What is the most critical factor when evaluating system trade-offs?",
+                    "hint": "Align with the primary objective and constraints.",
+                    "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+                  }
+                ],
+                "summary": "You have applied fundamental theory to real-world complexity.",
+                "furtherStudySuggestions": [
+                  "Complete the capstone assessment for this learning path"
+                ]
+              },
+              "estimated_minutes": 35,
+              "position": 1,
+              "created_at": "2026-10-29T16:35:00.394Z"
+            }
+          ],
+          "created_at": "2026-10-29T16:35:00.394Z"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+      "learning_path_id": "b3bc054d-263d-479b-9bee-b150c3014440",
+      "title": "Module 1: Foundations of Python Data Analysis",
+      "description": "Master core definitions, principles, and the mental model of Python Data Analysis.",
+      "position": 1,
+      "lessons": [
+        {
+          "id": "682d6f1a-3e72-4153-a2fe-d4be433d3781",
+          "module_id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+          "title": "Introduction & Key Principles of Python Data Analysis",
+          "content": {
+            "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+            "objectives": [
+              "Explain the core definition and history of Python Data Analysis",
+              "Identify the 3 foundational pillars governing the domain",
+              "Recognize everyday applications and practical value"
+            ],
+            "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+            "examples": [
+              {
+                "title": "Foundational Scenario",
+                "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+                "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Baseline State",
+                "definition": "The initial unmodified condition of the system."
+              },
+              {
+                "term": "Governing Rule",
+                "definition": "The fundamental constraint that dictates behavior."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "Memorizing terminology is sufficient for mastery.",
+                "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "What is the primary objective of studying Python Data Analysis?",
+                "hint": "Think about predictability and problem-solving capability.",
+                "answer": "To develop systematic intuition and apply foundational principles effectively."
+              }
+            ],
+            "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+            "furtherStudySuggestions": [
+              "Review related foundational literature",
+              "Attempt the Module 1 diagnostic quiz"
+            ]
+          },
+          "estimated_minutes": 25,
+          "position": 1,
+          "created_at": "2026-10-29T16:35:00.394Z"
+        },
+        {
+          "id": "c0c0395c-8118-4fbb-8b9e-daabca938aa2",
+          "module_id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+          "title": "Core Architecture & Essential Mechanics",
+          "content": {
+            "overview": "Dissecting the internal mechanics and operational workflow.",
+            "objectives": [
+              "Trace the step-by-step lifecycle of operations",
+              "Distinguish between internal states and external outputs"
+            ],
+            "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+            "examples": [
+              {
+                "title": "State Transition Example",
+                "explanation": "How inputs transition through intermediate phases.",
+                "codeOrSteps": "input -> validation -> processing -> output"
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Feedback Loop",
+                "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "Feedback loops always cause delays.",
+                "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "Why are feedback loops critical in system architecture?",
+                "hint": "Consider what happens when external conditions change unexpectedly.",
+                "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+              }
+            ],
+            "summary": "You now possess a working conceptual model of the internal mechanics.",
+            "furtherStudySuggestions": [
+              "Module 2: Advanced Techniques & Applications"
+            ]
+          },
+          "estimated_minutes": 30,
+          "position": 2,
+          "created_at": "2026-10-29T16:35:00.394Z"
+        }
+      ],
+      "created_at": "2026-10-29T16:35:00.394Z"
+    },
+    {
+      "id": "b2acd43f-7105-4fbc-b092-43baf87787a4",
+      "learning_path_id": "b3bc054d-263d-479b-9bee-b150c3014440",
+      "title": "Module 2: Applied Techniques & Problem Solving",
+      "description": "Tackle complex scenarios, edge cases, and practical implementations.",
+      "position": 2,
+      "lessons": [
+        {
+          "id": "a84f26dc-16da-4558-b8e5-76eb11cfb9aa",
+          "module_id": "b2acd43f-7105-4fbc-b092-43baf87787a4",
+          "title": "Real-World Case Studies in Python Data Analysis",
+          "content": {
+            "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+            "objectives": [
+              "Analyze a comprehensive real-world case study",
+              "Evaluate trade-offs between competing strategies"
+            ],
+            "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+            "examples": [
+              {
+                "title": "Case Study: Scaled Optimization",
+                "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+                "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Trade-off Analysis",
+                "definition": "The deliberate weighing of benefits versus compromises."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "There is always one single perfect solution.",
+                "clarification": "Engineering and science involve context-dependent trade-offs."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "What is the most critical factor when evaluating system trade-offs?",
+                "hint": "Align with the primary objective and constraints.",
+                "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+              }
+            ],
+            "summary": "You have applied fundamental theory to real-world complexity.",
+            "furtherStudySuggestions": [
+              "Complete the capstone assessment for this learning path"
+            ]
+          },
+          "estimated_minutes": 35,
+          "position": 1,
+          "created_at": "2026-10-29T16:35:00.394Z"
+        }
+      ],
+      "created_at": "2026-10-29T16:35:00.394Z"
+    },
+    {
+      "id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+      "learning_path_id": "ab527244-9468-4c19-b0da-b7be892e7c59",
+      "title": "Module 1: Foundations of Python Data Analysis",
+      "description": "Master core definitions, principles, and the mental model of Python Data Analysis.",
+      "position": 1,
+      "lessons": [
+        {
+          "id": "6a56344f-aaf4-4aac-bf7a-c42632c0b392",
+          "module_id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+          "title": "Introduction & Key Principles of Python Data Analysis",
+          "content": {
+            "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+            "objectives": [
+              "Explain the core definition and history of Python Data Analysis",
+              "Identify the 3 foundational pillars governing the domain",
+              "Recognize everyday applications and practical value"
+            ],
+            "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+            "examples": [
+              {
+                "title": "Foundational Scenario",
+                "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+                "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Baseline State",
+                "definition": "The initial unmodified condition of the system."
+              },
+              {
+                "term": "Governing Rule",
+                "definition": "The fundamental constraint that dictates behavior."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "Memorizing terminology is sufficient for mastery.",
+                "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "What is the primary objective of studying Python Data Analysis?",
+                "hint": "Think about predictability and problem-solving capability.",
+                "answer": "To develop systematic intuition and apply foundational principles effectively."
+              }
+            ],
+            "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+            "furtherStudySuggestions": [
+              "Review related foundational literature",
+              "Attempt the Module 1 diagnostic quiz"
+            ]
+          },
+          "estimated_minutes": 25,
+          "position": 1,
+          "created_at": "2026-10-29T17:06:11.230Z"
+        },
+        {
+          "id": "bf13d156-4585-47b2-9c2c-017220f4386f",
+          "module_id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+          "title": "Core Architecture & Essential Mechanics",
+          "content": {
+            "overview": "Dissecting the internal mechanics and operational workflow.",
+            "objectives": [
+              "Trace the step-by-step lifecycle of operations",
+              "Distinguish between internal states and external outputs"
+            ],
+            "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+            "examples": [
+              {
+                "title": "State Transition Example",
+                "explanation": "How inputs transition through intermediate phases.",
+                "codeOrSteps": "input -> validation -> processing -> output"
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Feedback Loop",
+                "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "Feedback loops always cause delays.",
+                "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "Why are feedback loops critical in system architecture?",
+                "hint": "Consider what happens when external conditions change unexpectedly.",
+                "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+              }
+            ],
+            "summary": "You now possess a working conceptual model of the internal mechanics.",
+            "furtherStudySuggestions": [
+              "Module 2: Advanced Techniques & Applications"
+            ]
+          },
+          "estimated_minutes": 30,
+          "position": 2,
+          "created_at": "2026-10-29T17:06:11.230Z"
+        }
+      ],
+      "created_at": "2026-10-29T17:06:11.230Z"
+    },
+    {
+      "id": "3528b6be-52b3-4cc8-88e1-fa27f08902a3",
+      "learning_path_id": "ab527244-9468-4c19-b0da-b7be892e7c59",
+      "title": "Module 2: Applied Techniques & Problem Solving",
+      "description": "Tackle complex scenarios, edge cases, and practical implementations.",
+      "position": 2,
+      "lessons": [
+        {
+          "id": "43eb9259-11db-4bf6-8cf7-dbd5d1cb48d1",
+          "module_id": "3528b6be-52b3-4cc8-88e1-fa27f08902a3",
+          "title": "Real-World Case Studies in Python Data Analysis",
+          "content": {
+            "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+            "objectives": [
+              "Analyze a comprehensive real-world case study",
+              "Evaluate trade-offs between competing strategies"
+            ],
+            "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+            "examples": [
+              {
+                "title": "Case Study: Scaled Optimization",
+                "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+                "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Trade-off Analysis",
+                "definition": "The deliberate weighing of benefits versus compromises."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "There is always one single perfect solution.",
+                "clarification": "Engineering and science involve context-dependent trade-offs."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "What is the most critical factor when evaluating system trade-offs?",
+                "hint": "Align with the primary objective and constraints.",
+                "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+              }
+            ],
+            "summary": "You have applied fundamental theory to real-world complexity.",
+            "furtherStudySuggestions": [
+              "Complete the capstone assessment for this learning path"
+            ]
+          },
+          "estimated_minutes": 35,
+          "position": 1,
+          "created_at": "2026-10-29T17:06:11.230Z"
+        }
+      ],
+      "created_at": "2026-10-29T17:06:11.230Z"
+    },
+    {
+      "id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+      "learning_path_id": "ffcf49b5-5c79-4366-aab3-dbcfafe75333",
+      "title": "Module 1: Foundations of Python Data Analysis",
+      "description": "Master core definitions, principles, and the mental model of Python Data Analysis.",
+      "position": 1,
+      "lessons": [
+        {
+          "id": "8a02a445-fa16-40e9-beea-ab6366b5970e",
+          "module_id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+          "title": "Introduction & Key Principles of Python Data Analysis",
+          "content": {
+            "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+            "objectives": [
+              "Explain the core definition and history of Python Data Analysis",
+              "Identify the 3 foundational pillars governing the domain",
+              "Recognize everyday applications and practical value"
+            ],
+            "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+            "examples": [
+              {
+                "title": "Foundational Scenario",
+                "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+                "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Baseline State",
+                "definition": "The initial unmodified condition of the system."
+              },
+              {
+                "term": "Governing Rule",
+                "definition": "The fundamental constraint that dictates behavior."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "Memorizing terminology is sufficient for mastery.",
+                "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "What is the primary objective of studying Python Data Analysis?",
+                "hint": "Think about predictability and problem-solving capability.",
+                "answer": "To develop systematic intuition and apply foundational principles effectively."
+              }
+            ],
+            "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+            "furtherStudySuggestions": [
+              "Review related foundational literature",
+              "Attempt the Module 1 diagnostic quiz"
+            ]
+          },
+          "estimated_minutes": 25,
+          "position": 1,
+          "created_at": "2026-10-29T17:11:12.608Z"
+        },
+        {
+          "id": "e4b70b3a-fb6c-4023-b760-7034e64db030",
+          "module_id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+          "title": "Core Architecture & Essential Mechanics",
+          "content": {
+            "overview": "Dissecting the internal mechanics and operational workflow.",
+            "objectives": [
+              "Trace the step-by-step lifecycle of operations",
+              "Distinguish between internal states and external outputs"
+            ],
+            "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+            "examples": [
+              {
+                "title": "State Transition Example",
+                "explanation": "How inputs transition through intermediate phases.",
+                "codeOrSteps": "input -> validation -> processing -> output"
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Feedback Loop",
+                "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "Feedback loops always cause delays.",
+                "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "Why are feedback loops critical in system architecture?",
+                "hint": "Consider what happens when external conditions change unexpectedly.",
+                "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+              }
+            ],
+            "summary": "You now possess a working conceptual model of the internal mechanics.",
+            "furtherStudySuggestions": [
+              "Module 2: Advanced Techniques & Applications"
+            ]
+          },
+          "estimated_minutes": 30,
+          "position": 2,
+          "created_at": "2026-10-29T17:11:12.608Z"
+        }
+      ],
+      "created_at": "2026-10-29T17:11:12.608Z"
+    },
+    {
+      "id": "d1ac2230-0d94-4021-9402-31a5b9c3d0cd",
+      "learning_path_id": "ffcf49b5-5c79-4366-aab3-dbcfafe75333",
+      "title": "Module 2: Applied Techniques & Problem Solving",
+      "description": "Tackle complex scenarios, edge cases, and practical implementations.",
+      "position": 2,
+      "lessons": [
+        {
+          "id": "2b8a73c7-44c5-4917-b41f-9eb59d34c207",
+          "module_id": "d1ac2230-0d94-4021-9402-31a5b9c3d0cd",
+          "title": "Real-World Case Studies in Python Data Analysis",
+          "content": {
+            "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+            "objectives": [
+              "Analyze a comprehensive real-world case study",
+              "Evaluate trade-offs between competing strategies"
+            ],
+            "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+            "examples": [
+              {
+                "title": "Case Study: Scaled Optimization",
+                "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+                "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+              }
+            ],
+            "keyTerminology": [
+              {
+                "term": "Trade-off Analysis",
+                "definition": "The deliberate weighing of benefits versus compromises."
+              }
+            ],
+            "misconceptions": [
+              {
+                "misconception": "There is always one single perfect solution.",
+                "clarification": "Engineering and science involve context-dependent trade-offs."
+              }
+            ],
+            "practiceQuestions": [
+              {
+                "question": "What is the most critical factor when evaluating system trade-offs?",
+                "hint": "Align with the primary objective and constraints.",
+                "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+              }
+            ],
+            "summary": "You have applied fundamental theory to real-world complexity.",
+            "furtherStudySuggestions": [
+              "Complete the capstone assessment for this learning path"
+            ]
+          },
+          "estimated_minutes": 35,
+          "position": 1,
+          "created_at": "2026-10-29T17:11:12.608Z"
+        }
+      ],
+      "created_at": "2026-10-29T17:11:12.608Z"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "682d6f1a-3e72-4153-a2fe-d4be433d3781",
+      "module_id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+      "title": "Introduction & Key Principles of Python Data Analysis",
+      "content": {
+        "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+        "objectives": [
+          "Explain the core definition and history of Python Data Analysis",
+          "Identify the 3 foundational pillars governing the domain",
+          "Recognize everyday applications and practical value"
+        ],
+        "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+        "examples": [
+          {
+            "title": "Foundational Scenario",
+            "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+            "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Baseline State",
+            "definition": "The initial unmodified condition of the system."
+          },
+          {
+            "term": "Governing Rule",
+            "definition": "The fundamental constraint that dictates behavior."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "Memorizing terminology is sufficient for mastery.",
+            "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "What is the primary objective of studying Python Data Analysis?",
+            "hint": "Think about predictability and problem-solving capability.",
+            "answer": "To develop systematic intuition and apply foundational principles effectively."
+          }
+        ],
+        "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+        "furtherStudySuggestions": [
+          "Review related foundational literature",
+          "Attempt the Module 1 diagnostic quiz"
+        ]
+      },
+      "estimated_minutes": 25,
+      "position": 1,
+      "created_at": "2026-10-29T16:35:00.394Z"
+    },
+    {
+      "id": "c0c0395c-8118-4fbb-8b9e-daabca938aa2",
+      "module_id": "0a62282c-c15e-4cca-8b0a-3540abc3e388",
+      "title": "Core Architecture & Essential Mechanics",
+      "content": {
+        "overview": "Dissecting the internal mechanics and operational workflow.",
+        "objectives": [
+          "Trace the step-by-step lifecycle of operations",
+          "Distinguish between internal states and external outputs"
+        ],
+        "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+        "examples": [
+          {
+            "title": "State Transition Example",
+            "explanation": "How inputs transition through intermediate phases.",
+            "codeOrSteps": "input -> validation -> processing -> output"
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Feedback Loop",
+            "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "Feedback loops always cause delays.",
+            "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "Why are feedback loops critical in system architecture?",
+            "hint": "Consider what happens when external conditions change unexpectedly.",
+            "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+          }
+        ],
+        "summary": "You now possess a working conceptual model of the internal mechanics.",
+        "furtherStudySuggestions": [
+          "Module 2: Advanced Techniques & Applications"
+        ]
+      },
+      "estimated_minutes": 30,
+      "position": 2,
+      "created_at": "2026-10-29T16:35:00.394Z"
+    },
+    {
+      "id": "a84f26dc-16da-4558-b8e5-76eb11cfb9aa",
+      "module_id": "b2acd43f-7105-4fbc-b092-43baf87787a4",
+      "title": "Real-World Case Studies in Python Data Analysis",
+      "content": {
+        "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+        "objectives": [
+          "Analyze a comprehensive real-world case study",
+          "Evaluate trade-offs between competing strategies"
+        ],
+        "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+        "examples": [
+          {
+            "title": "Case Study: Scaled Optimization",
+            "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+            "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Trade-off Analysis",
+            "definition": "The deliberate weighing of benefits versus compromises."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "There is always one single perfect solution.",
+            "clarification": "Engineering and science involve context-dependent trade-offs."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "What is the most critical factor when evaluating system trade-offs?",
+            "hint": "Align with the primary objective and constraints.",
+            "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+          }
+        ],
+        "summary": "You have applied fundamental theory to real-world complexity.",
+        "furtherStudySuggestions": [
+          "Complete the capstone assessment for this learning path"
+        ]
+      },
+      "estimated_minutes": 35,
+      "position": 1,
+      "created_at": "2026-10-29T16:35:00.394Z"
+    },
+    {
+      "id": "6a56344f-aaf4-4aac-bf7a-c42632c0b392",
+      "module_id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+      "title": "Introduction & Key Principles of Python Data Analysis",
+      "content": {
+        "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+        "objectives": [
+          "Explain the core definition and history of Python Data Analysis",
+          "Identify the 3 foundational pillars governing the domain",
+          "Recognize everyday applications and practical value"
+        ],
+        "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+        "examples": [
+          {
+            "title": "Foundational Scenario",
+            "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+            "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Baseline State",
+            "definition": "The initial unmodified condition of the system."
+          },
+          {
+            "term": "Governing Rule",
+            "definition": "The fundamental constraint that dictates behavior."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "Memorizing terminology is sufficient for mastery.",
+            "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "What is the primary objective of studying Python Data Analysis?",
+            "hint": "Think about predictability and problem-solving capability.",
+            "answer": "To develop systematic intuition and apply foundational principles effectively."
+          }
+        ],
+        "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+        "furtherStudySuggestions": [
+          "Review related foundational literature",
+          "Attempt the Module 1 diagnostic quiz"
+        ]
+      },
+      "estimated_minutes": 25,
+      "position": 1,
+      "created_at": "2026-10-29T17:06:11.230Z"
+    },
+    {
+      "id": "bf13d156-4585-47b2-9c2c-017220f4386f",
+      "module_id": "9fbf3002-532c-472e-9ce1-a473dbe629e4",
+      "title": "Core Architecture & Essential Mechanics",
+      "content": {
+        "overview": "Dissecting the internal mechanics and operational workflow.",
+        "objectives": [
+          "Trace the step-by-step lifecycle of operations",
+          "Distinguish between internal states and external outputs"
+        ],
+        "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+        "examples": [
+          {
+            "title": "State Transition Example",
+            "explanation": "How inputs transition through intermediate phases.",
+            "codeOrSteps": "input -> validation -> processing -> output"
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Feedback Loop",
+            "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "Feedback loops always cause delays.",
+            "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "Why are feedback loops critical in system architecture?",
+            "hint": "Consider what happens when external conditions change unexpectedly.",
+            "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+          }
+        ],
+        "summary": "You now possess a working conceptual model of the internal mechanics.",
+        "furtherStudySuggestions": [
+          "Module 2: Advanced Techniques & Applications"
+        ]
+      },
+      "estimated_minutes": 30,
+      "position": 2,
+      "created_at": "2026-10-29T17:06:11.230Z"
+    },
+    {
+      "id": "43eb9259-11db-4bf6-8cf7-dbd5d1cb48d1",
+      "module_id": "3528b6be-52b3-4cc8-88e1-fa27f08902a3",
+      "title": "Real-World Case Studies in Python Data Analysis",
+      "content": {
+        "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+        "objectives": [
+          "Analyze a comprehensive real-world case study",
+          "Evaluate trade-offs between competing strategies"
+        ],
+        "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+        "examples": [
+          {
+            "title": "Case Study: Scaled Optimization",
+            "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+            "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Trade-off Analysis",
+            "definition": "The deliberate weighing of benefits versus compromises."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "There is always one single perfect solution.",
+            "clarification": "Engineering and science involve context-dependent trade-offs."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "What is the most critical factor when evaluating system trade-offs?",
+            "hint": "Align with the primary objective and constraints.",
+            "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+          }
+        ],
+        "summary": "You have applied fundamental theory to real-world complexity.",
+        "furtherStudySuggestions": [
+          "Complete the capstone assessment for this learning path"
+        ]
+      },
+      "estimated_minutes": 35,
+      "position": 1,
+      "created_at": "2026-10-29T17:06:11.230Z"
+    },
+    {
+      "id": "8a02a445-fa16-40e9-beea-ab6366b5970e",
+      "module_id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+      "title": "Introduction & Key Principles of Python Data Analysis",
+      "content": {
+        "overview": "An engaging introduction establishing why Python Data Analysis matters and how it applies to real-world challenges.",
+        "objectives": [
+          "Explain the core definition and history of Python Data Analysis",
+          "Identify the 3 foundational pillars governing the domain",
+          "Recognize everyday applications and practical value"
+        ],
+        "explanation": "Understanding Python Data Analysis starts with recognizing the fundamental problem it solves. Rather than treating concepts in isolation, we treat the domain as an interconnected architecture where each principle informs the next.",
+        "examples": [
+          {
+            "title": "Foundational Scenario",
+            "explanation": "Demonstrating how the fundamental rule works under standard conditions.",
+            "codeOrSteps": "Step 1: Initialize baseline\nStep 2: Apply governing rule\nStep 3: Verify outcome"
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Baseline State",
+            "definition": "The initial unmodified condition of the system."
+          },
+          {
+            "term": "Governing Rule",
+            "definition": "The fundamental constraint that dictates behavior."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "Memorizing terminology is sufficient for mastery.",
+            "clarification": "Real understanding requires applying concepts to novel, unseen problems."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "What is the primary objective of studying Python Data Analysis?",
+            "hint": "Think about predictability and problem-solving capability.",
+            "answer": "To develop systematic intuition and apply foundational principles effectively."
+          }
+        ],
+        "summary": "We established the core mindset and terminology for Python Data Analysis. Up next: deep-dive mechanisms.",
+        "furtherStudySuggestions": [
+          "Review related foundational literature",
+          "Attempt the Module 1 diagnostic quiz"
+        ]
+      },
+      "estimated_minutes": 25,
+      "position": 1,
+      "created_at": "2026-10-29T17:11:12.608Z"
+    },
+    {
+      "id": "e4b70b3a-fb6c-4023-b760-7034e64db030",
+      "module_id": "c5965054-e679-4ba0-93f5-72b57e1f2505",
+      "title": "Core Architecture & Essential Mechanics",
+      "content": {
+        "overview": "Dissecting the internal mechanics and operational workflow.",
+        "objectives": [
+          "Trace the step-by-step lifecycle of operations",
+          "Distinguish between internal states and external outputs"
+        ],
+        "explanation": "Every operational system requires reliable feedback loops. Here we examine how state transitions occur and how errors are prevented.",
+        "examples": [
+          {
+            "title": "State Transition Example",
+            "explanation": "How inputs transition through intermediate phases.",
+            "codeOrSteps": "input -> validation -> processing -> output"
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Feedback Loop",
+            "definition": "A mechanism that evaluates outputs to calibrate subsequent inputs."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "Feedback loops always cause delays.",
+            "clarification": "Properly architected feedback loops prevent catastrophic failure modes."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "Why are feedback loops critical in system architecture?",
+            "hint": "Consider what happens when external conditions change unexpectedly.",
+            "answer": "They allow the system to self-correct and maintain stability under varied conditions."
+          }
+        ],
+        "summary": "You now possess a working conceptual model of the internal mechanics.",
+        "furtherStudySuggestions": [
+          "Module 2: Advanced Techniques & Applications"
+        ]
+      },
+      "estimated_minutes": 30,
+      "position": 2,
+      "created_at": "2026-10-29T17:11:12.608Z"
+    },
+    {
+      "id": "2b8a73c7-44c5-4917-b41f-9eb59d34c207",
+      "module_id": "d1ac2230-0d94-4021-9402-31a5b9c3d0cd",
+      "title": "Real-World Case Studies in Python Data Analysis",
+      "content": {
+        "overview": "Analyze how industry practitioners and academics solve real problems using these techniques.",
+        "objectives": [
+          "Analyze a comprehensive real-world case study",
+          "Evaluate trade-offs between competing strategies"
+        ],
+        "explanation": "Theoretical knowledge transforms into skill when tested against complex constraints such as performance, accuracy, and time limits.",
+        "examples": [
+          {
+            "title": "Case Study: Scaled Optimization",
+            "explanation": "How strategic refinement achieved a 3x efficiency gain.",
+            "codeOrSteps": "Optimized pipeline execution with decoupled checkpoints."
+          }
+        ],
+        "keyTerminology": [
+          {
+            "term": "Trade-off Analysis",
+            "definition": "The deliberate weighing of benefits versus compromises."
+          }
+        ],
+        "misconceptions": [
+          {
+            "misconception": "There is always one single perfect solution.",
+            "clarification": "Engineering and science involve context-dependent trade-offs."
+          }
+        ],
+        "practiceQuestions": [
+          {
+            "question": "What is the most critical factor when evaluating system trade-offs?",
+            "hint": "Align with the primary objective and constraints.",
+            "answer": "Identifying which constraints are strictly non-negotiable versus flexible."
+          }
+        ],
+        "summary": "You have applied fundamental theory to real-world complexity.",
+        "furtherStudySuggestions": [
+          "Complete the capstone assessment for this learning path"
+        ]
+      },
+      "estimated_minutes": 35,
+      "position": 1,
+      "created_at": "2026-10-29T17:11:12.608Z"
+    }
+  ],
+  "lesson_progress": [
+    {
+      "id": "f0d98278-98c7-4276-8260-640dcf5e97c2",
+      "user_id": "user_student_alpha",
+      "lesson_id": "682d6f1a-3e72-4153-a2fe-d4be433d3781",
+      "status": "completed",
+      "completed_at": "2026-10-29T16:35:00.435Z",
+      "updated_at": "2026-10-29T16:35:00.435Z"
+    },
+    {
+      "id": "432bc65b-489e-4877-b2f3-6a2a101100f7",
+      "user_id": "user_student_alpha",
+      "lesson_id": "6a56344f-aaf4-4aac-bf7a-c42632c0b392",
+      "status": "completed",
+      "completed_at": "2026-10-29T17:06:11.281Z",
+      "updated_at": "2026-10-29T17:06:11.281Z"
+    },
+    {
+      "id": "8527dda6-1af5-48db-bd8e-546553034e98",
+      "user_id": "user_student_alpha",
+      "lesson_id": "8a02a445-fa16-40e9-beea-ab6366b5970e",
+      "status": "completed",
+      "completed_at": "2026-10-29T17:11:12.655Z",
+      "updated_at": "2026-10-29T17:11:12.655Z"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "45e62153-d218-4526-ada4-0f849b203fad",
+      "user_id": "user_student_alpha",
+      "title": "Recursion Mastery Quiz",
+      "topic": "Recursion",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the primary role of foundational principles in Recursion?",
+          "type": "multiple_choice",
+          "options": [
+            "To establish predictable rules and modular structure",
+            "To replace the need for practice and experimentation",
+            "To make systems deliberately more complicated",
+            "To guarantee immediate perfection without testing"
+          ],
+          "correctAnswer": "To establish predictable rules and modular structure",
+          "explanation": "Foundational principles create clear constraints that enable systems to behave predictably and scale modularly.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        },
+        {
+          "id": "q2",
+          "question": "True or False: In Recursion, edge cases should be handled proactively rather than ignored.",
+          "type": "true_false",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": "True",
+          "explanation": "Handling edge cases proactively prevents silent data corruption and unexpected failures under extreme conditions.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        },
+        {
+          "id": "q3",
+          "question": "Which approach best describes the recommended way to debug an issue in Recursion?",
+          "type": "multiple_choice",
+          "options": [
+            "Systematic isolation of variables from first principles",
+            "Randomly changing parameters until it works",
+            "Ignoring the logs and restarting repeatedly",
+            "Assuming the theoretical framework is completely broken"
+          ],
+          "correctAnswer": "Systematic isolation of variables from first principles",
+          "explanation": "Isolating variables systematically allows you to identify the exact point of divergence without introducing secondary bugs.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        }
+      ],
+      "difficulty": "medium",
+      "time_limit_minutes": 6,
+      "created_at": "2026-10-29T17:11:12.694Z"
+    },
+    {
+      "id": "bdc141fa-5797-4b82-9fb1-e54c0942c473",
+      "user_id": "user_student_alpha",
+      "title": "Recursion Mastery Quiz",
+      "topic": "Recursion",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the primary role of foundational principles in Recursion?",
+          "type": "multiple_choice",
+          "options": [
+            "To establish predictable rules and modular structure",
+            "To replace the need for practice and experimentation",
+            "To make systems deliberately more complicated",
+            "To guarantee immediate perfection without testing"
+          ],
+          "correctAnswer": "To establish predictable rules and modular structure",
+          "explanation": "Foundational principles create clear constraints that enable systems to behave predictably and scale modularly.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        },
+        {
+          "id": "q2",
+          "question": "True or False: In Recursion, edge cases should be handled proactively rather than ignored.",
+          "type": "true_false",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": "True",
+          "explanation": "Handling edge cases proactively prevents silent data corruption and unexpected failures under extreme conditions.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        },
+        {
+          "id": "q3",
+          "question": "Which approach best describes the recommended way to debug an issue in Recursion?",
+          "type": "multiple_choice",
+          "options": [
+            "Systematic isolation of variables from first principles",
+            "Randomly changing parameters until it works",
+            "Ignoring the logs and restarting repeatedly",
+            "Assuming the theoretical framework is completely broken"
+          ],
+          "correctAnswer": "Systematic isolation of variables from first principles",
+          "explanation": "Isolating variables systematically allows you to identify the exact point of divergence without introducing secondary bugs.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        }
+      ],
+      "difficulty": "medium",
+      "time_limit_minutes": 6,
+      "created_at": "2026-10-29T17:06:11.312Z"
+    },
+    {
+      "id": "65c458c5-a0b0-4233-8368-0e1fe5c50ce6",
+      "user_id": "user_student_alpha",
+      "title": "Recursion Mastery Quiz",
+      "topic": "Recursion",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What is the primary role of foundational principles in Recursion?",
+          "type": "multiple_choice",
+          "options": [
+            "To establish predictable rules and modular structure",
+            "To replace the need for practice and experimentation",
+            "To make systems deliberately more complicated",
+            "To guarantee immediate perfection without testing"
+          ],
+          "correctAnswer": "To establish predictable rules and modular structure",
+          "explanation": "Foundational principles create clear constraints that enable systems to behave predictably and scale modularly.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        },
+        {
+          "id": "q2",
+          "question": "True or False: In Recursion, edge cases should be handled proactively rather than ignored.",
+          "type": "true_false",
+          "options": [
+            "True",
+            "False"
+          ],
+          "correctAnswer": "True",
+          "explanation": "Handling edge cases proactively prevents silent data corruption and unexpected failures under extreme conditions.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        },
+        {
+          "id": "q3",
+          "question": "Which approach best describes the recommended way to debug an issue in Recursion?",
+          "type": "multiple_choice",
+          "options": [
+            "Systematic isolation of variables from first principles",
+            "Randomly changing parameters until it works",
+            "Ignoring the logs and restarting repeatedly",
+            "Assuming the theoretical framework is completely broken"
+          ],
+          "correctAnswer": "Systematic isolation of variables from first principles",
+          "explanation": "Isolating variables systematically allows you to identify the exact point of divergence without introducing secondary bugs.",
+          "difficulty": "medium",
+          "topic": "Recursion"
+        }
+      ],
+      "difficulty": "medium",
+      "time_limit_minutes": 6,
+      "created_at": "2026-10-29T16:35:00.456Z"
+    }
+  ],
+  "quiz_attempts": [
+    {
+      "id": "886eabb2-5440-4b53-b11d-6ae880d68cc6",
+      "user_id": "user_student_alpha",
+      "quiz_id": "45e62153-d218-4526-ada4-0f849b203fad",
+      "score": 33,
+      "total_questions": 3,
+      "correct_count": 1,
+      "answers": [
+        {
+          "questionId": "q1",
+          "questionText": "What is the primary role of foundational principles in Recursion?",
+          "type": "multiple_choice",
+          "selectedAnswer": "To establish predictable rules and modular structure",
+          "correctAnswer": "To establish predictable rules and modular structure",
+          "isCorrect": true,
+          "explanation": "Foundational principles create clear constraints that enable systems to behave predictably and scale modularly.",
+          "topic": "Recursion"
+        },
+        {
+          "questionId": "q2",
+          "questionText": "True or False: In Recursion, edge cases should be handled proactively rather than ignored.",
+          "type": "true_false",
+          "selectedAnswer": "",
+          "correctAnswer": "True",
+          "isCorrect": false,
+          "explanation": "Handling edge cases proactively prevents silent data corruption and unexpected failures under extreme conditions.",
+          "topic": "Recursion"
+        },
+        {
+          "questionId": "q3",
+          "questionText": "Which approach best describes the recommended way to debug an issue in Recursion?",
+          "type": "multiple_choice",
+          "selectedAnswer": "",
+          "correctAnswer": "Systematic isolation of variables from first principles",
+          "isCorrect": false,
+          "explanation": "Isolating variables systematically allows you to identify the exact point of divergence without introducing secondary bugs.",
+          "topic": "Recursion"
+        }
+      ],
+      "completed_at": "2026-10-29T17:11:12.725Z"
+    },
+    {
+      "id": "4a68f5eb-f83a-49d9-96ee-64777f60e001",
+      "user_id": "user_student_alpha",
+      "quiz_id": "bdc141fa-5797-4b82-9fb1-e54c0942c473",
+      "score": 33,
+      "total_questions": 3,
+      "correct_count": 1,
+      "answers": [
+        {
+          "questionId": "q1",
+          "questionText": "What is the primary role of foundational principles in Recursion?",
+          "type": "multiple_choice",
+          "selectedAnswer": "To establish predictable rules and modular structure",
+          "correctAnswer": "To establish predictable rules and modular structure",
+          "isCorrect": true,
+          "explanation": "Foundational principles create clear constraints that enable systems to behave predictably and scale modularly.",
+          "topic": "Recursion"
+        },
+        {
+          "questionId": "q2",
+          "questionText": "True or False: In Recursion, edge cases should be handled proactively rather than ignored.",
+          "type": "true_false",
+          "selectedAnswer": "",
+          "correctAnswer": "True",
+          "isCorrect": false,
+          "explanation": "Handling edge cases proactively prevents silent data corruption and unexpected failures under extreme conditions.",
+          "topic": "Recursion"
+        },
+        {
+          "questionId": "q3",
+          "questionText": "Which approach best describes the recommended way to debug an issue in Recursion?",
+          "type": "multiple_choice",
+          "selectedAnswer": "",
+          "correctAnswer": "Systematic isolation of variables from first principles",
+          "isCorrect": false,
+          "explanation": "Isolating variables systematically allows you to identify the exact point of divergence without introducing secondary bugs.",
+          "topic": "Recursion"
+        }
+      ],
+      "completed_at": "2026-10-29T17:06:11.341Z"
+    },
+    {
+      "id": "43655f1b-fe58-4f45-bebd-14efd7c7387f",
+      "user_id": "user_student_alpha",
+      "quiz_id": "65c458c5-a0b0-4233-8368-0e1fe5c50ce6",
+      "score": 33,
+      "total_questions": 3,
+      "correct_count": 1,
+      "answers": [
+        {
+          "questionId": "q1",
+          "questionText": "What is the primary role of foundational principles in Recursion?",
+          "type": "multiple_choice",
+          "selectedAnswer": "To establish predictable rules and modular structure",
+          "correctAnswer": "To establish predictable rules and modular structure",
+          "isCorrect": true,
+          "explanation": "Foundational principles create clear constraints that enable systems to behave predictably and scale modularly.",
+          "topic": "Recursion"
+        },
+        {
+          "questionId": "q2",
+          "questionText": "True or False: In Recursion, edge cases should be handled proactively rather than ignored.",
+          "type": "true_false",
+          "selectedAnswer": "",
+          "correctAnswer": "True",
+          "isCorrect": false,
+          "explanation": "Handling edge cases proactively prevents silent data corruption and unexpected failures under extreme conditions.",
+          "topic": "Recursion"
+        },
+        {
+          "questionId": "q3",
+          "questionText": "Which approach best describes the recommended way to debug an issue in Recursion?",
+          "type": "multiple_choice",
+          "selectedAnswer": "",
+          "correctAnswer": "Systematic isolation of variables from first principles",
+          "isCorrect": false,
+          "explanation": "Isolating variables systematically allows you to identify the exact point of divergence without introducing secondary bugs.",
+          "topic": "Recursion"
+        }
+      ],
+      "completed_at": "2026-10-29T16:35:00.482Z"
+    }
+  ],
+  "topic_mastery": [
+    {
+      "id": "21868403-8e0a-4d3a-8962-952e1a999c99",
+      "user_id": "user_student_alpha",
+      "topic": "Introduction & Key Principles of Python Data Analysis",
+      "mastery_score": 99,
+      "confidence": "medium",
+      "total_attempts": 3,
+      "correct_attempts": 3,
+      "last_assessed_at": "2026-10-29T17:11:12.657Z",
+      "updated_at": "2026-10-29T17:11:12.657Z"
+    },
+    {
+      "id": "2cf3f1e2-e8cf-4192-a0ad-ac96b1cd27a3",
+      "user_id": "user_student_alpha",
+      "topic": "Recursion",
+      "mastery_score": 32,
+      "confidence": "medium",
+      "total_attempts": 9,
+      "correct_attempts": 3,
+      "last_assessed_at": "2026-10-29T17:11:12.723Z",
+      "updated_at": "2026-10-29T17:11:12.723Z"
+    },
+    {
+      "id": "24e19a6c-fca8-423d-b01c-f874cca1e8c6",
+      "user_id": "demo-student-alex",
+      "topic": "Data Structures",
+      "mastery_score": 86,
+      "confidence": "low",
+      "total_attempts": 2,
+      "correct_attempts": 2,
+      "last_assessed_at": "2026-10-29T17:11:09.163Z",
+      "updated_at": "2026-10-29T17:11:09.163Z"
+    },
+    {
+      "id": "38d11a34-a956-42e0-9bfe-4b4aa002c696",
+      "user_id": "demo-student-alex",
+      "topic": "Algorithms",
+      "mastery_score": 40,
+      "confidence": "low",
+      "total_attempts": 1,
+      "correct_attempts": 1,
+      "last_assessed_at": "2026-10-29T17:11:09.164Z",
+      "updated_at": "2026-10-29T17:11:09.164Z"
+    },
+    {
+      "id": "2685fe1c-e6cb-4abb-acf7-939305f34766",
+      "user_id": "demo-student-alex",
+      "topic": "Dynamic Programming",
+      "mastery_score": 15,
+      "confidence": "low",
+      "total_attempts": 1,
+      "correct_attempts": 0,
+      "last_assessed_at": "2026-10-29T17:11:09.165Z",
+      "updated_at": "2026-10-29T17:11:09.165Z"
+    }
+  ],
+  "study_sessions": [
+    {
+      "id": "ba6e04c3-7bb4-40fb-ac77-13d75d196d65",
+      "user_id": "demo-student-alex",
+      "topic": "Artificial Intelligence",
+      "planned_minutes": 45,
+      "actual_minutes": 0,
+      "scheduled_at": "2026-10-29T12:30:00.000Z",
+      "status": "scheduled",
+      "notes": "Suggested based on your onboarding subjects of interest",
+      "created_at": "2026-10-29T17:11:09.353Z"
+    },
+    {
+      "id": "fb204ac8-167e-4042-b85c-c8f1a4b5be58",
+      "user_id": "demo-student-alex",
+      "topic": "Data Structures",
+      "planned_minutes": 45,
+      "actual_minutes": 0,
+      "scheduled_at": "2026-10-30T12:30:00.000Z",
+      "status": "scheduled",
+      "notes": "Suggested based on your onboarding subjects of interest",
+      "created_at": "2026-10-29T17:11:09.354Z"
+    },
+    {
+      "id": "8103eb70-599e-4f2b-adbc-fa58e9e7f92e",
+      "user_id": "demo-student-alex",
+      "topic": "Neuroscience",
+      "planned_minutes": 45,
+      "actual_minutes": 0,
+      "scheduled_at": "2026-10-31T12:30:00.000Z",
+      "status": "scheduled",
+      "notes": "Suggested based on your onboarding subjects of interest",
+      "created_at": "2026-10-29T17:11:09.355Z"
+    }
+  ],
+  "study_documents": [],
+  "document_chunks": [],
+  "flashcards": []
+}
