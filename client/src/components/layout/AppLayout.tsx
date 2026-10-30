@@ -35,7 +35,8 @@ export const AppLayout: React.FC<{ children: React.ReactNode }> = ({ children })
 
   const navItems = [
     { label: 'Dashboard', path: '/dashboard', icon: LayoutDashboard },
-    { label: 'AI Tutor', path: '/tutor', icon: Bot, highlight: true },
+    { label: 'AI Chatbot', path: '/chat', icon: Sparkles, highlight: true },
+    { label: 'AI Tutor', path: '/tutor', icon: Bot },
     { label: 'My Learning Paths', path: '/learning-paths', icon: Compass },
     { label: 'Study Materials', path: '/materials', icon: FileText },
     { label: 'Practice & Quizzes', path: '/quizzes', icon: Award },

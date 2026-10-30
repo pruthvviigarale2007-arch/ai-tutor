@@ -3,9 +3,8 @@
 # ==========================================
 
 [build]
-  base = "client"
+  command = "npm --prefix client install && npm --prefix client run build && node -e \"const fs=require('fs'); fs.cpSync('client/dist', 'dist', {recursive:true});\""
   publish = "dist"
-  command = "npm run build"
 
 # Handle Single Page Application (SPA) client-side routing
 [[redirects]]

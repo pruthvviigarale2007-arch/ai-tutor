@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Sparkles, ArrowRight, UserCheck } from 'lucide-react';
+import { Sparkles, ArrowRight, UserCheck, MessageSquare } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext';
 import { Button } from '../ui/Button';
 
@@ -26,7 +26,17 @@ export const Navbar: React.FC = () => {
         </Link>
 
         {/* Navigation Links */}
-        <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-slate-600">
+        <nav className="hidden md:flex items-center gap-7 text-sm font-medium text-slate-600">
+          <Link
+            to="/chat"
+            className="flex items-center gap-1.5 text-brand-600 font-bold hover:text-brand-700 transition-colors bg-brand-50 px-3 py-1 rounded-full border border-brand-200/80 shadow-2xs"
+          >
+            <MessageSquare className="w-3.5 h-3.5" />
+            <span>AI Chatbot</span>
+            <span className="bg-brand-600 text-white text-[9px] px-1.5 py-0.5 rounded-full uppercase tracking-wider font-extrabold">
+              Live
+            </span>
+          </Link>
           <a href="#how-it-works" className="hover:text-brand-600 transition-colors">
             How It Works
           </a>
@@ -43,10 +53,17 @@ export const Navbar: React.FC = () => {
 
         {/* Right CTA */}
         <div className="flex items-center gap-3">
+          <Link to="/chat" className="md:hidden">
+            <Button size="sm" variant="secondary" className="gap-1 text-xs px-2.5 py-1">
+              <Sparkles className="w-3 h-3 text-brand-600" />
+              Chatbot
+            </Button>
+          </Link>
+
           {user ? (
             <Link to="/dashboard">
               <Button size="sm" rightIcon={<ArrowRight className="w-4 h-4" />}>
-                Go to Dashboard
+                Dashboard
               </Button>
             </Link>
           ) : (

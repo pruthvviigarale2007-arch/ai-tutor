@@ -5,14 +5,17 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import { AppLayout } from './components/layout/AppLayout';
+import { ChatbotWidget } from './components/chatbot/ChatbotWidget';
 
 // Pages
+import { MainChatbotApp } from './pages/MainChatbotApp';
 import { LandingPage } from './pages/LandingPage';
 import { LoginPage } from './pages/LoginPage';
 import { SignupPage } from './pages/SignupPage';
 import { OnboardingPage } from './pages/OnboardingPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { TutorPage } from './pages/TutorPage';
+import { ChatbotPage } from './pages/ChatbotPage';
 import { ConversationHistoryPage } from './pages/ConversationHistoryPage';
 import { LearningPathsPage } from './pages/LearningPathsPage';
 import { LearningPathDetailPage } from './pages/LearningPathDetailPage';
@@ -72,8 +75,12 @@ export const App: React.FC = () => {
     <AuthProvider>
       <Router>
         <Routes>
-          {/* Public Pages */}
-          <Route path="/" element={<LandingPage />} />
+          {/* Standalone AI Tutor Chatbot as the Primary App Experience */}
+          <Route path="/" element={<MainChatbotApp />} />
+          <Route path="/chat" element={<MainChatbotApp />} />
+          <Route path="/chatbot" element={<MainChatbotApp />} />
+          <Route path="/landing" element={<LandingPage />} />
+          <Route path="/about" element={<LandingPage />} />
           <Route
             path="/login"
             element={
@@ -238,6 +245,9 @@ export const App: React.FC = () => {
           {/* 404 Fallback */}
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
+
+        {/* Global Floating AI Tutor Chatbot Widget on Every Page */}
+        <ChatbotWidget />
       </Router>
     </AuthProvider>
   );
